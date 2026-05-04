@@ -13,6 +13,6 @@ SYSTEM ARCHITECTURE
 - Student registers → data stored in database
 
 
-1- COMPONENT DIAGRAM (UML)
+
 
 
